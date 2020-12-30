@@ -5,7 +5,7 @@
 ## I'm a Data Scientist at Capgemini
 
 - 🎓 I’m currently learning data science and machine learning
-- 🛠️ I’m working on interesting refinforcement learning applications
+- 🛠️ I’m working on interesting refinforcement learning projects
 - ✔️ 2021 Goals: Gain more understanding and experience with advanced machine learning
 - ⭐ Fun fact: I can solve a Rubik's cube in less than 30 seconds!
 

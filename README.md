@@ -4,9 +4,10 @@
 
 ## I'm a Data Scientist at Capgemini
 
-- 🌱 I’m currently learning data science and programming
-- 🥅 2021 Goals: Gain more understanding and experience with advanced machine learning
-- ⚡ Fun fact: I can solve a Rubik's cube in less than 30 seconds!
+- 🎓 I’m currently learning data science and machine learning
+- 🛠️ I’m working on interesting refinforcement learning applications
+- ✔️ 2021 Goals: Gain more understanding and experience with advanced machine learning
+- ⭐ Fun fact: I can solve a Rubik's cube in less than 30 seconds!
 
 ### Connect with me:
 
@@ -29,8 +30,6 @@
 <img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />

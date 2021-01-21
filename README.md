@@ -4,9 +4,10 @@
 
 ## I'm a Data Scientist at Capgemini
 
-🎓 I'm currently learning data science and machine learning  
-🛠️ I'm working on building neural networks from scratch  
-✔️ Current Goal: Gain more understanding and experience with advanced machine learning  
+🎓 Studying: More advanced machine learning methods  
+🛠️ Working on: Building neural networks from scratch  
+✔️ Current Goal: Complete a whole bunch of Coursera specialisations
+♟️ I'm playing: Lots of chess
 ⭐ Fun fact: I can solve a Rubik's cube in less than 30 seconds!  
 
 ### Connect with me:

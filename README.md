@@ -6,8 +6,8 @@
 
 🎓 Studying: More advanced machine learning methods  
 🛠️ Working on: Building neural networks from scratch  
-✔️ Current Goal: Complete a whole bunch of Coursera specialisations
-♟️ I'm playing: Lots of chess
+✔️ Current Goal: Complete a whole bunch of Coursera specialisations  
+♟️ I'm playing: Lots of chess  
 ⭐ Fun fact: I can solve a Rubik's cube in less than 30 seconds!  
 
 ### Connect with me:

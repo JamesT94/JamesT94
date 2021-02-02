@@ -5,7 +5,7 @@
 
 ## I'm a Data Scientist at Capgemini
 
-🎓 Studying: Deep learning  
+🎓 Studying: Deep learning.  
 🛠️ Working on: Building neural networks from scratch  
 ✔️ Current Goal: Complete a whole bunch of Coursera specialisations  
 ♟️ I'm playing: Lots of chess  

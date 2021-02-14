@@ -47,4 +47,4 @@
 
 <br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesT94&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesT94&layout=compact)](https://github.com/JamesT94/github-readme-stats)

@@ -43,4 +43,8 @@
 
 [website]: https://jamestaylor.dev
 [twitter]: https://twitter.com/JSTaylor46
-[linkedin]: https://linkedin.com/in/jamesscotttaylor94/
+[linkedin]: https://linkedin.com/in/jamesscotttaylor94/  
+
+<br />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesT94&hide=TeX&layout=compact)

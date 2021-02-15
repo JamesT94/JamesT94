@@ -45,6 +45,3 @@
 [twitter]: https://twitter.com/JSTaylor46
 [linkedin]: https://linkedin.com/in/jamesscotttaylor94/  
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesT94&layout=compact&hide=shaderlab)](https://github.com/JamesT94/github-readme-stats)

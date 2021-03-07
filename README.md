@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=JamesTaylor.dev&style=for-the-badge&url=https%3A%2F%2Fjamestaylor.dev)](https://jamestaylor.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JSTaylor46?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJamesT94&screen_name=JSTaylor46)
 
-## I'm a Data Scientist at Capgemini
+## I'm a Data Scientist at Capgemini 
 
 🎓 Studying: Deep learning  
 🛠️ Working on: Building neural networks from scratch  

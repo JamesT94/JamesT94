@@ -5,7 +5,7 @@
 
 ## I'm a Data Scientist at Capgemini 
 
-🎓 Studying: Deep learning  
+🎓 Studying: Reinforcement learning  
 🛠️ Working on: Building neural networks from scratch  
 ✔️ Current Goal: Lots of Coursera specialisations  
 🕹️ I'm playing: Outriders | DOOM | Chess  

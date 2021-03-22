@@ -8,7 +8,7 @@
 🎓 Studying: Deep learning  
 🛠️ Working on: Building neural networks from scratch  
 ✔️ Current Goal: Lots of Coursera specialisations  
-🕹️ I'm playing: Outriders | Loop Hero | Chess  
+🕹️ I'm playing: Outriders | DOOM | Chess  
 ⭐ Fun fact: I can solve a Rubik's cube in less than 30 seconds  
 
 ### Connect with me:

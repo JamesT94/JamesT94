@@ -9,9 +9,7 @@ Website still under construction!
 
 🎓 Studying: Reinforcement learning  
 🛠️ Working on: Building neural networks from scratch  
-✔️ Current Goal: Lots of Coursera specialisations  
-🕹️ I'm playing: WoW Classic | DOOM Eternal | Chess   
-⭐ Fun fact: I can solve a Rubik's cube in less than 30 seconds  
+✔️ Current Goal: Lots of Coursera specialisations    
 
 ### Connect with me:
 
